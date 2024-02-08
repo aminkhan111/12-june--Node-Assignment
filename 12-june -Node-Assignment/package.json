@@ -1,0 +1,11 @@
+{
+  "name": "assign",
+  "version": "1.0.0",
+  "description": "test Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "author": "Amin Khan",
+  "license": "ISC"
+}
